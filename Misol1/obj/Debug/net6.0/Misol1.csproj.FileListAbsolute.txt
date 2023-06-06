@@ -1,0 +1,15 @@
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\bin\Debug\net6.0\Misol1.exe
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\bin\Debug\net6.0\Misol1.deps.json
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\bin\Debug\net6.0\Misol1.runtimeconfig.json
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\bin\Debug\net6.0\Misol1.dll
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\bin\Debug\net6.0\Misol1.pdb
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.dll
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\refint\Misol1.dll
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.pdb
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\Misol1.genruntimeconfig.cache
+C:\Users\Windows10\source\repos\StringHomework1\Misol1\obj\Debug\net6.0\ref\Misol1.dll

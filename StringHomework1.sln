@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Misol1", "Misol1\Misol1.csproj", "{02C9C27D-3FCF-496F-8D06-4DCAF6100CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Misol3", "Misol3\Misol3.csproj", "{22D02040-3751-44FB-B4C0-757F51A31E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Misol4", "Misol4\Misol4.csproj", "{BA3C4A33-A98A-4115-BB7B-BD67596A0795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C9C27D-3FCF-496F-8D06-4DCAF6100CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C9C27D-3FCF-496F-8D06-4DCAF6100CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C9C27D-3FCF-496F-8D06-4DCAF6100CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C9C27D-3FCF-496F-8D06-4DCAF6100CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D02040-3751-44FB-B4C0-757F51A31E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D02040-3751-44FB-B4C0-757F51A31E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D02040-3751-44FB-B4C0-757F51A31E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D02040-3751-44FB-B4C0-757F51A31E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3C4A33-A98A-4115-BB7B-BD67596A0795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3C4A33-A98A-4115-BB7B-BD67596A0795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3C4A33-A98A-4115-BB7B-BD67596A0795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3C4A33-A98A-4115-BB7B-BD67596A0795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F54F79-7942-47A9-9244-F7D859497421}
+	EndGlobalSection
+EndGlobal
